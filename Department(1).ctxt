@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Department
+comment1.params=storeId\ storeName\ location\ openingHour\ totalSales\ totalDiscount\ productName\ markedPrice
+comment1.target=Department(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getproductName()
+comment3.params=
+comment3.target=double\ getmarkedPrice()
+comment4.params=
+comment4.target=double\ getsellingPrice()
+comment5.params=
+comment5.target=boolean\ getisInSales()
+comment6.params=markedPrice
+comment6.target=void\ setmarkedPrice(double)
+comment7.params=isInSales\ markedPrice
+comment7.target=void\ calculateDisountPrice(boolean,\ double)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
